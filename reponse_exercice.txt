@@ -1,0 +1,6 @@
+Résultat de gradient.c (question 4)
+
+a = 0.290341
+b = 0.034736
+Cost = 0.023908
+Iterations = 211
